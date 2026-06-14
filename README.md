@@ -113,6 +113,5 @@ Ali Waheed Aboul-Seoud
 
 Backend Engineer passionate about Computer Science and building reliable software systems using C++ and C#.
 
-LinkedIn:
-
-https://www.linkedin.com/in/ali-waheed-aboul-seoud-a36399336
+- LinkedIn: https://www.linkedin.com/in/ali-waheed-aboul-seoud-a36399336
+- GitHub: https://github.com/aliaboulseoud1-sudo
