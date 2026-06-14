@@ -1,5 +1,11 @@
 # Object-Oriented Banking System
 
+![Language](https://img.shields.io/badge/Language-C++-blue)
+
+![Paradigm](https://img.shields.io/badge/Paradigm-OOP-success)
+
+![Storage](https://img.shields.io/badge/Storage-File%20Based-orange)
+
 A console-based Banking Management System developed using Object-Oriented C++.
 
 The project simulates a real-world banking system and includes user and client management, role-based access control (RBAC), banking transactions, currency exchange, and persistent file-based storage.
